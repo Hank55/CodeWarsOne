@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace Highest_and_Lowest
@@ -15,9 +16,24 @@ namespace Highest_and_Lowest
 
         public static string HighAndLow(string numbers)
         {
-            var numbersList = numbers.Split(' ').Select(x => Convert.ToInt32(x));
+            var numbersList = numbers.Split(' ');
 
-            return $"{numbersList.Max()} {numbersList.Min()}";
+            var ints = new List<int>();
+
+
+            foreach (var item in numbersList)
+            {
+                var numberss = int.Parse(item);
+
+
+                ints.Add(numberss);
+            }
+
+
+            return $"{ints.Max()} {ints.Min()}";
+
+            //var numbersList = numbers.Split(' ').Select(x => Convert.ToInt32(x));
+            //return string.Format("{0} {1}", numbersList.Max(), numbersList.Min());
         }
     }
 }
