@@ -21,11 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exes and Ohs", "Exes and Oh
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find Maximum and Minimum Values of a List", "Find Maximum and Minimum Values of a List\Find Maximum and Minimum Values of a List.csproj", "{C09E37EA-D752-41A1-BED7-428CD7A2F0E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List Filtering", "List Filtering\List Filtering.csproj", "{DFAAF928-373D-4737-BF77-B46A4DC78270}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert number to reversed array of digits", "Convert number to reversed array of digits\Convert number to reversed array of digits.csproj", "{FBFF4C1F-7843-44EF-B392-65EE4E68AC14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jaden Casing Strings", "Jaden Casing Strings\Jaden Casing Strings.csproj", "{7208A797-BF87-4BAB-A3BA-46B66D6283A9}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Descending Order", "Descending Order\Descending Order.csproj", "{19FB6C92-390E-4438-A3B0-E2332641170D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Highest and Lowest", "Highest and Lowest\Highest and Lowest.csproj", "{7F7880CE-40CD-472E-8748-346D771D2DEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,18 +67,6 @@ Global
 		{C09E37EA-D752-41A1-BED7-428CD7A2F0E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C09E37EA-D752-41A1-BED7-428CD7A2F0E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C09E37EA-D752-41A1-BED7-428CD7A2F0E9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DFAAF928-373D-4737-BF77-B46A4DC78270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DFAAF928-373D-4737-BF77-B46A4DC78270}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DFAAF928-373D-4737-BF77-B46A4DC78270}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DFAAF928-373D-4737-BF77-B46A4DC78270}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7208A797-BF87-4BAB-A3BA-46B66D6283A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7208A797-BF87-4BAB-A3BA-46B66D6283A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7208A797-BF87-4BAB-A3BA-46B66D6283A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7208A797-BF87-4BAB-A3BA-46B66D6283A9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{19FB6C92-390E-4438-A3B0-E2332641170D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{19FB6C92-390E-4438-A3B0-E2332641170D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{19FB6C92-390E-4438-A3B0-E2332641170D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{19FB6C92-390E-4438-A3B0-E2332641170D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
