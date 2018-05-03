@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sorted_yes_no_how", "Sorted
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Make a function that does arithmetic!", "Make a function that does arithmetic!\Make a function that does arithmetic!.csproj", "{E8D2F432-41F1-4084-9867-748AB7B7D235}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find_The_Stray_Number", "Find_The_Stray_Number\Find_The_Stray_Number.csproj", "{0AC41DDF-CAEB-445F-9D30-FC18D1D6FFC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find_The_Stray_Number", "Find_The_Stray_Number\Find_The_Stray_Number.csproj", "{0AC41DDF-CAEB-445F-9D30-FC18D1D6FFC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Break camelCase", "Break camelCase\Break camelCase.csproj", "{6876950F-2517-4D58-82AC-C9CA6138C7D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{0AC41DDF-CAEB-445F-9D30-FC18D1D6FFC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AC41DDF-CAEB-445F-9D30-FC18D1D6FFC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AC41DDF-CAEB-445F-9D30-FC18D1D6FFC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6876950F-2517-4D58-82AC-C9CA6138C7D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6876950F-2517-4D58-82AC-C9CA6138C7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6876950F-2517-4D58-82AC-C9CA6138C7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6876950F-2517-4D58-82AC-C9CA6138C7D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
