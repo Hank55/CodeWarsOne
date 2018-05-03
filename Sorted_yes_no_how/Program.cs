@@ -10,9 +10,7 @@ namespace Sorted_yes_no_how
             Console.WriteLine(IsSortedAndHow(new[] { 1, 2 ,3}));
             Console.WriteLine(IsSortedAndHow(new[] { 15, 7, 3, -8 }));
             Console.WriteLine(IsSortedAndHow(new[] { 4, 2, 30 }));
-
         }
-
 
         public static string IsSortedAndHow(int[] array)
         {
