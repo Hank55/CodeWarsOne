@@ -31,7 +31,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Make a function that does a
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find_The_Stray_Number", "Find_The_Stray_Number\Find_The_Stray_Number.csproj", "{0AC41DDF-CAEB-445F-9D30-FC18D1D6FFC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Break camelCase", "Break camelCase\Break camelCase.csproj", "{6876950F-2517-4D58-82AC-C9CA6138C7D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Break camelCase", "Break camelCase\Break camelCase.csproj", "{6876950F-2517-4D58-82AC-C9CA6138C7D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagram Detection", "Anagram Detection\Anagram Detection.csproj", "{6A25A3AA-6FAE-4C23-B82E-F55EF1D8C26D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{6876950F-2517-4D58-82AC-C9CA6138C7D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6876950F-2517-4D58-82AC-C9CA6138C7D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6876950F-2517-4D58-82AC-C9CA6138C7D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A25A3AA-6FAE-4C23-B82E-F55EF1D8C26D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A25A3AA-6FAE-4C23-B82E-F55EF1D8C26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A25A3AA-6FAE-4C23-B82E-F55EF1D8C26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A25A3AA-6FAE-4C23-B82E-F55EF1D8C26D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
