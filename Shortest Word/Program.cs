@@ -6,8 +6,7 @@ namespace Shortest_Word
     {
         static void Main(string[] args)
         {
-
-            Console.WriteLine(FindShort("bitcoin take over the world maybe who knows perhaps")); 
+            Console.WriteLine(FindShort("bit-coin take over the world maybe who knows perhaps")); 
         }
 
         public static int FindShort(string s)
