@@ -6,7 +6,7 @@ namespace Make_a_function_that_does_arithmetic_
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Arithmetic(5, 2, "add")); 
+            Console.WriteLine(Arithmetic(5, 2, "add"));
             Console.WriteLine(Arithmetic(5, 2, "subtract"));
             Console.WriteLine(Arithmetic(5, 2, "multiply"));
             Console.WriteLine(Arithmetic(5, 2, "divide"));
