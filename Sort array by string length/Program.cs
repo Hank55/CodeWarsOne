@@ -7,10 +7,9 @@ namespace Sort_array_by_string_length
     {
         static void Main(string[] args)
         {
-            var listOfWords = new string[] { "Telescopes", "Glasses", "Eyes", "Monocles" };
-            var sorted = SortByLength(listOfWords);
+            string[] listOfWords = new string[] { "Telescopes", "Glasses", "Eyes", "Monocles" };
 
-            foreach (var item in sorted)
+            foreach (var item in SortByLength(listOfWords))
             {
                 Console.WriteLine(item);
             }
