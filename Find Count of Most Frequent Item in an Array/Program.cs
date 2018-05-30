@@ -12,6 +12,10 @@ namespace Find_Count_of_Most_Frequent_Item_in_an_Array
             var list1 = new int[] { 3, -1, 1, -1, 2, 3, -1, 3, -1, 2, 4, 9, 3,9,9,9,9,9,9,9 };
             Console.WriteLine(MostFrequentItemCount(list));
             Console.WriteLine(MostFrequentItemCount(list1));
+
+            int tal = 100_000;
+
+            Console.WriteLine(tal);
         }
 
         public static int MostFrequentItemCount(int[] collection)

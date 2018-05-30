@@ -47,7 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vampire Numbers", "Vampire 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinQ", "LinQ\LinQ.csproj", "{BC8171CB-B27B-499C-A1EA-196628F44447}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Count of Most Frequent Item in an Array", "Find Count of Most Frequent Item in an Array\Find Count of Most Frequent Item in an Array.csproj", "{999B4060-8C1D-46BE-B6F3-5040195DFABC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find Count of Most Frequent Item in an Array", "Find Count of Most Frequent Item in an Array\Find Count of Most Frequent Item in an Array.csproj", "{999B4060-8C1D-46BE-B6F3-5040195DFABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Average Scores", "Average Scores\Average Scores.csproj", "{DBE7E83F-77BA-466D-AFE4-26BB6F36374E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{999B4060-8C1D-46BE-B6F3-5040195DFABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{999B4060-8C1D-46BE-B6F3-5040195DFABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{999B4060-8C1D-46BE-B6F3-5040195DFABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBE7E83F-77BA-466D-AFE4-26BB6F36374E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE7E83F-77BA-466D-AFE4-26BB6F36374E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE7E83F-77BA-466D-AFE4-26BB6F36374E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE7E83F-77BA-466D-AFE4-26BB6F36374E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
