@@ -15,9 +15,7 @@ namespace Convert_number_to_reversed_array_of_digits
             {
                 Console.WriteLine(item);
             }
-
         }
-
 
         public static long[] Digitize(long n)
         {
