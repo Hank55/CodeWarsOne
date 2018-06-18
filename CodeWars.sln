@@ -49,9 +49,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinQ", "LinQ\LinQ.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find Count of Most Frequent Item in an Array", "Find Count of Most Frequent Item in an Array\Find Count of Most Frequent Item in an Array.csproj", "{999B4060-8C1D-46BE-B6F3-5040195DFABC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Average Scores", "Average Scores\Average Scores.csproj", "{DBE7E83F-77BA-466D-AFE4-26BB6F36374E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Average Scores", "Average Scores\Average Scores.csproj", "{DBE7E83F-77BA-466D-AFE4-26BB6F36374E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenAte9", "SevenAte9\SevenAte9.csproj", "{25638912-9ED4-4F3E-A65D-E616323F466D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SevenAte9", "SevenAte9\SevenAte9.csproj", "{25638912-9ED4-4F3E-A65D-E616323F466D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Say hello!", "Find the odd int\Say hello!.csproj", "{2F7E7DDF-2DE4-4663-A212-8E2A846662E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{25638912-9ED4-4F3E-A65D-E616323F466D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25638912-9ED4-4F3E-A65D-E616323F466D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25638912-9ED4-4F3E-A65D-E616323F466D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F7E7DDF-2DE4-4663-A212-8E2A846662E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F7E7DDF-2DE4-4663-A212-8E2A846662E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F7E7DDF-2DE4-4663-A212-8E2A846662E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F7E7DDF-2DE4-4663-A212-8E2A846662E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
