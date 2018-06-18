@@ -41,6 +41,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Love vs friendship", "Love 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The highest profit wins!", "The highest profit wins!\The highest profit wins!.csproj", "{D9A1B277-53A8-4EC6-8AC7-B4F1215AB2BA}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Round to the next multiple of 5", "Round to the next multiple of 5\Round to the next multiple of 5.csproj", "{36909148-9981-4B5A-BD52-515DA7A67170}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vampire Numbers", "Vampire Numbers\Vampire Numbers.csproj", "{159C9DBF-614B-4272-879B-115D490BA7CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinQ", "LinQ\LinQ.csproj", "{BC8171CB-B27B-499C-A1EA-196628F44447}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find Count of Most Frequent Item in an Array", "Find Count of Most Frequent Item in an Array\Find Count of Most Frequent Item in an Array.csproj", "{999B4060-8C1D-46BE-B6F3-5040195DFABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Average Scores", "Average Scores\Average Scores.csproj", "{DBE7E83F-77BA-466D-AFE4-26BB6F36374E}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenAte9", "SevenAte9\SevenAte9.csproj", "{25638912-9ED4-4F3E-A65D-E616323F466D}"
 EndProject
 Global
@@ -125,6 +135,26 @@ Global
 		{D9A1B277-53A8-4EC6-8AC7-B4F1215AB2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9A1B277-53A8-4EC6-8AC7-B4F1215AB2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9A1B277-53A8-4EC6-8AC7-B4F1215AB2BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36909148-9981-4B5A-BD52-515DA7A67170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36909148-9981-4B5A-BD52-515DA7A67170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36909148-9981-4B5A-BD52-515DA7A67170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36909148-9981-4B5A-BD52-515DA7A67170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{159C9DBF-614B-4272-879B-115D490BA7CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{159C9DBF-614B-4272-879B-115D490BA7CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{159C9DBF-614B-4272-879B-115D490BA7CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{159C9DBF-614B-4272-879B-115D490BA7CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC8171CB-B27B-499C-A1EA-196628F44447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC8171CB-B27B-499C-A1EA-196628F44447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC8171CB-B27B-499C-A1EA-196628F44447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC8171CB-B27B-499C-A1EA-196628F44447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{999B4060-8C1D-46BE-B6F3-5040195DFABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{999B4060-8C1D-46BE-B6F3-5040195DFABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{999B4060-8C1D-46BE-B6F3-5040195DFABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{999B4060-8C1D-46BE-B6F3-5040195DFABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBE7E83F-77BA-466D-AFE4-26BB6F36374E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE7E83F-77BA-466D-AFE4-26BB6F36374E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE7E83F-77BA-466D-AFE4-26BB6F36374E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE7E83F-77BA-466D-AFE4-26BB6F36374E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{25638912-9ED4-4F3E-A65D-E616323F466D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{25638912-9ED4-4F3E-A65D-E616323F466D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25638912-9ED4-4F3E-A65D-E616323F466D}.Release|Any CPU.ActiveCfg = Release|Any CPU
