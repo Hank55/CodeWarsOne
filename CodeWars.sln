@@ -57,7 +57,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Say hello!", "Find the odd 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Replace With Alphabet Position", "Replace With Alphabet Position\Replace With Alphabet Position.csproj", "{F16EC715-28FC-4A2E-83C2-F987B626DE7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Summing a number's digits", "Summing a number's digits\Summing a number's digits.csproj", "{8713727F-183D-46AD-920E-3B94AF5E8FF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Summing a number's digits", "Summing a number's digits\Summing a number's digits.csproj", "{8713727F-183D-46AD-920E-3B94AF5E8FF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exclamation_marks_series", "Exclamation_marks_series\Exclamation_marks_series.csproj", "{0A432551-32BD-4C48-930F-8CD032E0A19B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{8713727F-183D-46AD-920E-3B94AF5E8FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8713727F-183D-46AD-920E-3B94AF5E8FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8713727F-183D-46AD-920E-3B94AF5E8FF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A432551-32BD-4C48-930F-8CD032E0A19B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A432551-32BD-4C48-930F-8CD032E0A19B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A432551-32BD-4C48-930F-8CD032E0A19B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A432551-32BD-4C48-930F-8CD032E0A19B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

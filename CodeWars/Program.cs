@@ -10,11 +10,11 @@ namespace CodeWars
             var numbers = new int[4] { 5, 3, 2, 8 };
 
 
-            Console.WriteLine(sumTwoSmallestNumbers(numbers));
+            Console.WriteLine(SumTwoSmallestNumbers(numbers));
         }
 
 
-        public static int sumTwoSmallestNumbers(int[] numbers) => numbers.OrderBy(i => i).Take(2).Sum();
+        public static int SumTwoSmallestNumbers(int[] numbers) => numbers.OrderBy(i => i).Take(2).Sum();
 
         #region Another way of getting the two smallest numbers in an array of int[]
         //        {
